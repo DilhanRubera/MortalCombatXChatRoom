@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E80E9A36-7A90-4B30-B527-0FC8BB63D892}|IGamingLobbyServer\\IGamingLobbyServer.csproj|e:\\curtin\\year 3\\sem 2\\dc - 2024\\assignment 1\\final\\assignment_1_dilhan_rubera_21026003\\submission\\mortalcombatxgaminglobby\\igaminglobbyserver\\gaminglobbyserverinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80E9A36-7A90-4B30-B527-0FC8BB63D892}|IGamingLobbyServer\\IGamingLobbyServer.csproj|solutionrelative:igaminglobbyserver\\gaminglobbyserverinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|solutionrelative:GamingLobbyClient\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|solutionrelative:GamingLobbyClient\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\ChatRoomWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|solutionrelative:GamingLobbyClient\\ChatRoomWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\ChatRoomWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|solutionrelative:GamingLobbyClient\\ChatRoomWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\gaminglobbyclient\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|solutionrelative:gaminglobbyclient\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\PMRoomWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|solutionrelative:GamingLobbyClient\\PMRoomWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\HomePage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|solutionrelative:GamingLobbyClient\\HomePage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE955C67-EB2A-4281-93C7-238868DB13EF}|GamingLobbyDataTier\\GamingLobbyDataTier.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\gaminglobbydatatier\\lobbyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE955C67-EB2A-4281-93C7-238868DB13EF}|GamingLobbyDataTier\\GamingLobbyDataTier.csproj|solutionrelative:gaminglobbydatatier\\lobbyroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE955C67-EB2A-4281-93C7-238868DB13EF}|GamingLobbyDataTier\\GamingLobbyDataTier.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\gaminglobbydatatier\\lobbyroomdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE955C67-EB2A-4281-93C7-238868DB13EF}|GamingLobbyDataTier\\GamingLobbyDataTier.csproj|solutionrelative:gaminglobbydatatier\\lobbyroomdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE955C67-EB2A-4281-93C7-238868DB13EF}|GamingLobbyDataTier\\GamingLobbyDataTier.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\gaminglobbydatatier\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE955C67-EB2A-4281-93C7-238868DB13EF}|GamingLobbyDataTier\\GamingLobbyDataTier.csproj|solutionrelative:gaminglobbydatatier\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE955C67-EB2A-4281-93C7-238868DB13EF}|GamingLobbyDataTier\\GamingLobbyDataTier.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\gaminglobbydatatier\\pmdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE955C67-EB2A-4281-93C7-238868DB13EF}|GamingLobbyDataTier\\GamingLobbyDataTier.csproj|solutionrelative:gaminglobbydatatier\\pmdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE955C67-EB2A-4281-93C7-238868DB13EF}|GamingLobbyDataTier\\GamingLobbyDataTier.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\gaminglobbydatatier\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE955C67-EB2A-4281-93C7-238868DB13EF}|GamingLobbyDataTier\\GamingLobbyDataTier.csproj|solutionrelative:gaminglobbydatatier\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE955C67-EB2A-4281-93C7-238868DB13EF}|GamingLobbyDataTier\\GamingLobbyDataTier.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\gaminglobbydatatier\\userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE955C67-EB2A-4281-93C7-238868DB13EF}|GamingLobbyDataTier\\GamingLobbyDataTier.csproj|solutionrelative:gaminglobbydatatier\\userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65802632-FF18-4B73-A1EE-6B14D479852A}|GamingLobbyServer\\GamingLobbyServer.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyServer\\GamingLobbyServerImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65802632-FF18-4B73-A1EE-6B14D479852A}|GamingLobbyServer\\GamingLobbyServer.csproj|solutionrelative:GamingLobbyServer\\GamingLobbyServerImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\gaminglobbyclient\\pmroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCA105D9-25B4-4D6C-B0FA-59E42378985D}|GamingLobbyClient\\GamingLobbyClient.csproj|solutionrelative:gaminglobbyclient\\pmroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamingLobbyServerInterface.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\IGamingLobbyServer\\GamingLobbyServerInterface.cs",
+              "RelativeDocumentMoniker": "IGamingLobbyServer\\GamingLobbyServerInterface.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\IGamingLobbyServer\\GamingLobbyServerInterface.cs",
+              "RelativeToolTip": "IGamingLobbyServer\\GamingLobbyServerInterface.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:41:25.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PMRoomWindow.xaml",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\PMRoomWindow.xaml",
+              "RelativeDocumentMoniker": "GamingLobbyClient\\PMRoomWindow.xaml",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\PMRoomWindow.xaml",
+              "RelativeToolTip": "GamingLobbyClient\\PMRoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T06:05:23.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LobbyRoomDatabase.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyDataTier\\LobbyRoomDatabase.cs",
+              "RelativeDocumentMoniker": "GamingLobbyDataTier\\LobbyRoomDatabase.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyDataTier\\LobbyRoomDatabase.cs",
+              "RelativeToolTip": "GamingLobbyDataTier\\LobbyRoomDatabase.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:03:03.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PMDatabase.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyDataTier\\PMDatabase.cs",
+              "RelativeDocumentMoniker": "GamingLobbyDataTier\\PMDatabase.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyDataTier\\PMDatabase.cs",
+              "RelativeToolTip": "GamingLobbyDataTier\\PMDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:03:00.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDatabase.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyDataTier\\UserDatabase.cs",
+              "RelativeDocumentMoniker": "GamingLobbyDataTier\\UserDatabase.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyDataTier\\UserDatabase.cs",
+              "RelativeToolTip": "GamingLobbyDataTier\\UserDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:02:54.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyDataTier\\User.cs",
+              "RelativeDocumentMoniker": "GamingLobbyDataTier\\User.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyDataTier\\User.cs",
+              "RelativeToolTip": "GamingLobbyDataTier\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:02:53.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyDataTier\\Message.cs",
+              "RelativeDocumentMoniker": "GamingLobbyDataTier\\Message.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyDataTier\\Message.cs",
+              "RelativeToolTip": "GamingLobbyDataTier\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:02:52.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LobbyRoom.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyDataTier\\LobbyRoom.cs",
+              "RelativeDocumentMoniker": "GamingLobbyDataTier\\LobbyRoom.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyDataTier\\LobbyRoom.cs",
+              "RelativeToolTip": "GamingLobbyDataTier\\LobbyRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:02:51.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "GamingLobbyClient\\HomePage.xaml.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\HomePage.xaml.cs",
+              "RelativeToolTip": "GamingLobbyClient\\HomePage.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwCkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:08:03.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\HomePage.xaml",
+              "RelativeDocumentMoniker": "GamingLobbyClient\\HomePage.xaml",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\HomePage.xaml",
+              "RelativeToolTip": "GamingLobbyClient\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T12:08:01.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PMRoomWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\PMRoomWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GamingLobbyClient\\PMRoomWindow.xaml.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\PMRoomWindow.xaml.cs",
+              "RelativeToolTip": "GamingLobbyClient\\PMRoomWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:07:13.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GamingLobbyServerImpl.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyServer\\GamingLobbyServerImpl.cs",
+              "RelativeDocumentMoniker": "GamingLobbyServer\\GamingLobbyServerImpl.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyServer\\GamingLobbyServerImpl.cs",
+              "RelativeToolTip": "GamingLobbyServer\\GamingLobbyServerImpl.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAArwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:02:16.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GamingLobbyClient\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GamingLobbyClient\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAzwDMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:01:20.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatRoomWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\ChatRoomWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GamingLobbyClient\\ChatRoomWindow.xaml.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\ChatRoomWindow.xaml.cs",
+              "RelativeToolTip": "GamingLobbyClient\\ChatRoomWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:54:59.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatRoomWindow.xaml",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\ChatRoomWindow.xaml",
+              "RelativeDocumentMoniker": "GamingLobbyClient\\ChatRoomWindow.xaml",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\ChatRoomWindow.xaml",
+              "RelativeToolTip": "GamingLobbyClient\\ChatRoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T11:55:00.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GamingLobbyClient\\MainWindow.xaml",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 1\\Final\\Assignment_1_Dilhan_Rubera_21026003\\Submission\\MortalCombatXGamingLobby\\GamingLobbyClient\\MainWindow.xaml",
+              "RelativeToolTip": "GamingLobbyClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T11:49:25.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
